@@ -41,3 +41,6 @@ var compare = function(choice1, choice2) {
         }
         
     };
+
+    //Calling the function
+    compare(userChoice, computerChoice);
